@@ -34,3 +34,10 @@ $ weekly-report # or wr for short
 - The script will stop inspect dirs inside a dir if the dir is a git project.
 - script will go 3 layer down
 - make sure your git repos are on the right branch
+
+## Todo
+
+- 添加 Nodemailer 发送邮件
+- 删除 git commit 中的 merge 信息
+- 贴近现有周报样式格式化输出文本
+- 给出最佳git commit 方式
